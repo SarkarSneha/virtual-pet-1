@@ -76,7 +76,7 @@ fill("black")
   textSize(27)
   text("Press UP ARROW Key to feed your pet 'MILO'",40,100 )
   text(" 'MILO' has already drank some milk before",40,50 )
-  text(mouseX+" ," +mouseY, mouseX,mouseY)
+  //text(mouseX+" ," +mouseY, mouseX,mouseY)
   drawSprites();
  
 }
